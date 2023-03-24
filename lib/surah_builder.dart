@@ -241,7 +241,7 @@ class ReturnBasmala extends StatelessWidget {
     return Stack(children: [
       const Center(
         child: Text(
-          'بسم الله الرحمن الرحيم',
+          'بسم الله الرحمن الرحيمgsd g',
           style: TextStyle(fontFamily: 'me_quran', fontSize: 30),
           textDirection: TextDirection.rtl,
         ),
